@@ -1,3 +1,3 @@
 # gigleaz
 
-i have added a html code
+i have removed body tag
